@@ -1,0 +1,51 @@
+{
+
+  "token": "CHANGE ME", 
+  "prefix": "",
+
+  "host": "", 
+  "user": "",
+  "password": "", 
+  "database": "", 
+
+  "wlcommand": "", 
+  "guildidwl": "", 
+  "kanalwl": "", 
+
+  "kanalst": "",
+  "wiadomoscst": "", 
+  "ipst": "",
+  "maksst": "",
+  "kolorst": "",
+  "nazwafoost": "",
+  "nazwaglst": "",
+
+
+  "kategoriatic": "",
+  "roleidtic": "", 
+  "komendatic": "", 
+  "logitic": "", 
+
+  "roladev": "", 
+  "iddev": "",
+  "komendadev": "", 
+
+  "rolehex": "",
+  "komendahex": "",
+
+  "rolaogl": "",
+  "idogl": "", 
+  "komendaogl": "", 
+
+  "rolapoll": "",
+  "komendapoll": "",
+
+  "kanalprop": "",
+  "komendaprop": "",
+
+  "rolasay": "",
+  "komendasay": "",
+
+  "rolars": "",
+  "komendars": ""
+}
